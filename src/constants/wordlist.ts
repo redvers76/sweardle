@@ -66,6 +66,8 @@ export const WORDS = [
   'cunting',
   'shitfest',
   'fucketh',
+  'bitchcunt',
+  'bollocked',
   'fuckbag',
   'dumbshit',
   'suckdick',
