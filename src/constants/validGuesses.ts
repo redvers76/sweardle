@@ -288,6 +288,7 @@ export const VALID_GUESSES = [
   'fuckee',
   'cockable',
   'cuntbag',
+  'fuckries',
   'bitcher',
   'twat',
   'cockeyed',
@@ -305,4 +306,5 @@ export const VALID_GUESSES = [
   'arselicker',
   'mindfuck',
   'crapload',
+  'fuckry',
 ]
