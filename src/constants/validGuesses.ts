@@ -13111,4 +13111,13 @@ export const VALID_GUESSES = [
   'zygon',
   'zymes',
   'zymic',
+  'wtf',
+  'arse',
+  'bitch',
+  'arsing',
+  'asshole',
+  'bastardy',
+  'bastardry',
+  'arselicker',
+  'arselicking',
 ]
