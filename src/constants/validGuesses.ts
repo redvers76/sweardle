@@ -66,6 +66,8 @@ export const VALID_GUESSES = [
   'cunting',
   'shitfest',
   'fucketh',
+  'bitchcunt',
+  'bollocked',
   'fuckbag',
   'dumbshit',
   'suckdick',
