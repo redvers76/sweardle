@@ -288,6 +288,7 @@ export const WORDS = [
   'fuckee',
   'cockable',
   'cuntbag',
+  'fuckries',
   'bitcher',
   'twat',
   'cockeyed',
@@ -305,4 +306,5 @@ export const WORDS = [
   'arselicker',
   'mindfuck',
   'crapload',
+  'fuckry',
 ]
